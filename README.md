@@ -1,2 +1,2 @@
 # GCD-gitrepo
-Course project for Gettign and Cleaning Data
+Course project for Getting and Cleaning Data
